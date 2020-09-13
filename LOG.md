@@ -3,3 +3,4 @@
 - 003 ok/0 O(n) debug for 1 sec
 - 004 ok/0 O(m+n) no debug / just spend a bit time
 - 005 ok/1 O(n^2) debug for dp init problem, 30 sec
+- 006 ok/1 O(n) failed for first 10min, but sloved after lunch break.
