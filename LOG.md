@@ -9,4 +9,7 @@
 - 008 Todo
 - 009 ok/0 O(n) debug for 30 sec, problem is using n\*10 replace pow(10, n)
 - 010 Todo its a hard dp RE match problem~
-- 011
+- 011 Failed, I spend 2 hours in a mono stack solution
+- 012 Todo-delay boring int and roman translate...
+- 013 Todo-delay boring
+- 014
