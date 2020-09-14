@@ -5,4 +5,7 @@
 - 005 ok/1 O(n^2) debug for dp init problem, 30 sec
 - 006 ok/1 O(n) failed for first 10min, but sloved after lunch break.
 - 007 ok/0 O(n) no deubg.
-- 008
+  there's always something distract you in modern society :), but after a short break I m back.
+- 008 Todo
+- 009 ok/0 O(n) debug for 30 sec, problem is using n\*10 replace pow(10, n)
+- 010
