@@ -8,4 +8,4 @@
   there's always something distract you in modern society :), but after a short break I m back.
 - 008 Todo
 - 009 ok/0 O(n) debug for 30 sec, problem is using n\*10 replace pow(10, n)
-- 010
+- 010 Todo its a hard dp RE match problem~
