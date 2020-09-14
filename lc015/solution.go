@@ -19,6 +19,10 @@ func threeSum(nums []int) [][]int {
 	})
 
 	for i := 0; i < len(nums)-2; i++ {
+		// !!!
+		if nums[i] > 0 {
+			break
+		}
 		left = i + 1
 		right = len(nums) - 1
 		for left < right {
@@ -26,9 +30,9 @@ func threeSum(nums []int) [][]int {
 			if sum == 0 {
 				hash[strconv.Itoa(nums[i])+"_"+strconv.Itoa(nums[left])+"_"+strconv.Itoa(nums[right])] = []int{nums[i], nums[left], nums[right]}
 				right--
-				for nums[left] == nums[left+1] {
-					left++
-				}
+				// for nums[left] == nums[left+1] {
+				// 	left++
+				// }
 				left++
 			} else if sum > 0 {
 				right--

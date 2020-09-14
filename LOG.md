@@ -14,3 +14,5 @@
 - 013 Todo-delay boring
 - 014 ok/0 O(nk) no debug
 - 015 ok/1 Spend some time to remove dulplicate result.
+- 016 ok/0 debug for 10 min, the problem is misunderstood of the problem, need to return sum, not the closet divide result.
+- 017
