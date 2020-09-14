@@ -12,6 +12,12 @@ func TestThreeSum(t *testing.T) {
 	}
 
 	resu := threeSum(nums)
+	for i := 0; i < len(resu); i++ {
+		for j := 0; j < len(resu[i]); j++ {
+			print(resu[i][j], " ")
+		}
+		println()
+	}
 
 	if len(resu) != len(r) {
 		t.Fail()
