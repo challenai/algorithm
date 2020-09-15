@@ -21,4 +21,4 @@
 - 020 ok/0 debug for 2min, lost a else condition for push el to stack
 - 021 ok/0 no debug, just a simple two way merge algorithm
 - 022 Todo handle something... do it later because of the interuption
-- 023
+- 023 ok/0 debug for 5min, problem is I forget a ptr = ptr.Next
