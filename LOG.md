@@ -19,4 +19,4 @@
 - 018 ok/1 debug for more than 10 min, the problem is dulplicate element produced by hash getSum.
 - 019 ok/0 no debug
 - 020 ok/0 debug for 2min, lost a else condition for push el to stack
-- 021
+- 021 ok/0 no debug, just a simple two way merge algorithm
