@@ -18,3 +18,5 @@
 - 017 ok/0 I dont know why, but I just spend 5min and feel a mess , but it just pass the test... no debug
 - 018 ok/1 debug for more than 10 min, the problem is dulplicate element produced by hash getSum.
 - 019 ok/0 no debug
+- 020 ok/0 debug for 2min, lost a else condition for push el to stack
+- 021

@@ -6,6 +6,7 @@ type ListNode struct {
 }
 
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
+	// idea: just use a stack or list store the elements have been visited
 	var ptr *ListNode
 	ptr = head
 	st := []*ListNode{}
