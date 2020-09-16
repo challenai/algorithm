@@ -25,3 +25,4 @@
 - 024 ok/0 debug for 10s, problem is I forget a ptr = head to init a pointer
 - 025 failed/1 I can image how can I handle reverse a linked-list in O (1) space, just change the direction of the arrow, but the reality is I got confused in serverals minutes...
 - 026 ok/1 remove dulplicate partition.
+- 029 ok/0 debug for 10 sec, if x^y <0, x and y have different symbols

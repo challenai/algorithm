@@ -24,3 +24,7 @@ package solution
 // 		current += "("
 // 	}
 // }
+
+func genereateParenthesisis(n int) []string {
+    
+}
