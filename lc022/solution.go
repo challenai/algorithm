@@ -26,5 +26,4 @@ package solution
 // }
 
 func genereateParenthesisis(n int) []string {
-    
 }

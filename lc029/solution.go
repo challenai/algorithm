@@ -21,3 +21,8 @@ func abs(a int) int {
 	}
 	return a
 }
+
+func devide2(devidend int, devisor int) int {
+   //  needMinusSymbol := devidend ^ devisor < 0
+    return 0
+}
