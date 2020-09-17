@@ -15,13 +15,6 @@ func TestCombinationSum(t *testing.T) {
 	resu1 := combinationSumz(candidates1, target1)
 	resu2 := combinationSumz(candidates2, target2)
 
-	for i := 0; i < len(resu1); i++ {
-		for j := 0; j < len(resu1[i]); j++ {
-			print(resu1[i][j], " ")
-		}
-		println()
-	}
-
 	if len(resu1) != r1Len || len(resu2) != r2Len {
 		t.Fail()
 	}
