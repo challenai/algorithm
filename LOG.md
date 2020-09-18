@@ -34,5 +34,6 @@
 - 041 ok/0 no debug
 - 042 todo
 - 043 no/ignored boring problem, why I need to impl a string product, do I need to build the computer from Iron and plastic? Everyone know we can use a*b in a program language. Now we have to realize a stupid one.
-- 45 debug for 30 sec, nums => dp....
-- 
+- 045 debug for 30 sec, nums => dp....
+- 048 ok/0 debug for a bit time, confused in index, experience is using a arrow, and draw it down in the paper will be better.
+-
