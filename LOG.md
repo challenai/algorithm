@@ -37,5 +37,6 @@
 - 045 debug for 30 sec, nums => dp....
 - 048 ok/0 debug for a bit time, confused in index, experience is using a arrow, and draw it down in the paper will be better.
 - 049 ok/0 no debug.
--
--
+- 050 no/ignored now. realize a pow...
+- 051
+- 054 no/2 spiral-order print matrix ...  in a mess when cantrol the index, it could be a rectangle. WTF :(
