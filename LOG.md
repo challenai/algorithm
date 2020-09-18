@@ -40,3 +40,5 @@
 - 050 no/ignored now. realize a pow...
 - 051
 - 054 no/2 spiral-order print matrix ...  in a mess when cantrol the index, it could be a rectangle. WTF :(
+- 055 ok/0 super easy, no debug
+- 056
