@@ -42,4 +42,5 @@
 - 054 no/2 spiral-order print matrix ...  in a mess when cantrol the index, it could be a rectangle. WTF :(
 - 055 ok/0 super easy, no debug
 - 056 ok/0 no debug
+- 060 ok/1 care about details...
 - 058 ok/0 no debug
