@@ -48,3 +48,5 @@
 - 062 ok/0 no debug
 - 063 ok/0 no debug
 - 064 ok/0 no debug
+- 065 no/ignored parse a number according to rules
+- 066 ok/0 no debug
