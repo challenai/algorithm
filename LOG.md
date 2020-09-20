@@ -52,3 +52,4 @@
 - 066 ok/0 no debug
 - 067 ok/0 debug for 10 sec
 - 069 ok/0 debug for 30 sec, deserve redo.
+- 070 ok/0 no debug. dont do it again, waste time, sososososossoso easy...
