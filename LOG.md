@@ -50,3 +50,4 @@
 - 064 ok/0 no debug
 - 065 no/ignored parse a number according to rules
 - 066 ok/0 no debug
+- 067 ok/0 debug for 10 sec
