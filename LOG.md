@@ -59,6 +59,6 @@
 - 075 ok/0 no debug, blooooody easy
 - 076 ok/0 debug for 3sec
 - 077 ok/0 no debug, dont do it again, sheer waste of time
-- 079 ok/1 no debug
-
 - 078 ok/0 no debug, dont do it again
+- 079 ok/1 no debug
+- 080 ok/1 30 min to debug... but not difficult, just distracted.
