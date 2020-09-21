@@ -58,3 +58,4 @@
 - 074 ok/0 without any obstacles...
 - 075 ok/0 no debug, blooooody easy
 - 076 ok/0 debug for 3sec
+- 077 ok/0 no debug, dont do it again, sheer waste of time
