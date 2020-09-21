@@ -56,3 +56,4 @@
 - 071 ok/0 debug for 10 sec
 - 073 ok/1 no debug, But i dont catch up the idea to handle in 10 min.
 - 074 ok/0 without any obstacles...
+- 075 ok/0 no debug, blooooody easy
