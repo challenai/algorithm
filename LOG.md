@@ -27,6 +27,7 @@
 - 026 ok/1 remove dulplicate partition.
 - 029 ok/0 debug for 10 sec, if x^y <0, x and y have different symbols
 
+- 032 ok/0 hiahiahia, I can use st, MAKE IT SO EASY~ no debug, O(n) CT~
 - 035 ok/0 debug for 10 sec, ignore border case
 - 038 no/ignored ignored because it\'s a stupid comprehesive problem
 - 039 ok/0 debug for 30 sec, manually write a dfs without struct for the first time...
