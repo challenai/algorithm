@@ -15,7 +15,7 @@ func largestRectangleArea(nums []int) int {
 			for len(st) > 1 && nums[i] < nums[st[len(st)-1]] {
 				temp = st[len(st)-1]
 				st = st[:len(st)-1]
-				resu = (i - st[len(st)-1] - 1) * nums[temp]
+				resu = max(resu, (i-st[len(st)-1]-1)*nums[temp])
 			}
 		}
 		// push el, just add a push in for loop,

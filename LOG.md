@@ -66,3 +66,4 @@
 - 082 ok/0 debug for 10 sec
 - 083 ok/0 no debug
 - 084 ok/1 debug for 5 min
+- 085 ok/1 debug for 30 min, main in ignore the border case height[i] == height[i-1]
