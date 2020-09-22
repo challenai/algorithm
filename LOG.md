@@ -69,3 +69,6 @@
 - 085 ok/1 debug for 30 min, main in ignore the border case height[i] == height[i-1]
 - 086 ok/0 no debug, but I can do it again, really easy but interesting problem if you haven\'t try linked list problem for a bit time
 - 088 ok/0 debug for 30 sec. no finish job before
+- 089 ok/ignored gray code is a concept problem, not about algorithm, just relative to understand of a new concept...
+- 090 ok/0 hia hia hia, waste time but really happy, just feels like chased by killer in DBD :))), I\'m an insane input machine.
+
