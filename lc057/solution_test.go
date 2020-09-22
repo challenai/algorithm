@@ -25,9 +25,7 @@ func TestInsert(t *testing.T) {
 	newInterval2 := []int{4, 8}
 	r2 := [][]int{
 		[]int{1, 2},
-		[]int{3, 5},
-		[]int{6, 7},
-		[]int{8, 10},
+		[]int{3, 10},
 		[]int{12, 16},
 	}
 
@@ -50,7 +48,7 @@ func TestInsert(t *testing.T) {
 	showResu(resu3)
 	showResu(resu4)
 
-	if false {
+	if len(resu1) != len(r1) || len(resu2) != len(r2) || len(resu3) != len(r3) || len(resu4) != len(r4) {
 		t.Fail()
 	}
 }
