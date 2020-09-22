@@ -63,3 +63,4 @@
 - 079 ok/1 no debug
 - 080 ok/1 30 min to debug... but not difficult, just distracted.
 - 081 ok/0 no debug, but maybe I get a wrong solution due to the time-complexity hint.
+- 082 ok/0 debug for 10 sec
