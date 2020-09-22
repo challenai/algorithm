@@ -65,3 +65,4 @@
 - 081 ok/0 no debug, but maybe I get a wrong solution due to the time-complexity hint.
 - 082 ok/0 debug for 10 sec
 - 083 ok/0 no debug
+- 084 ok/1 debug for 5 min
