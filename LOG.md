@@ -76,4 +76,5 @@
 - 090 ok/0 no debug
 - 091 ok/0 no debug, simple dp
 - 092 ok/0 debug for 10 sec, wrong test
+- 093 no/failed failed to handle for the first time
 
