@@ -73,4 +73,5 @@
 - 088 ok/0 debug for 30 sec. no finish job before
 - 089 ok/ignored gray code is a concept problem, not about algorithm, just relative to understand of a new concept...
 - 090 ok/0 hia hia hia, waste time but really happy, just feels like chased by killer in DBD :))), I\'m an insane input machine.
+- 090 ok/0 no debug
 
