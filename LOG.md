@@ -89,3 +89,5 @@
 - 103 ok/0 debug for 30 sec, bug is lost a counter++
 - 104 ok/0 no debug, sososososossoso ez
 - 107 ok/0 no debug, st + q + seperator, ezzz
+- 108 ok/0 no debug
+-
