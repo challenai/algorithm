@@ -80,4 +80,4 @@
 - 094 ok/0 ez, without any doubt I fucked it up.
 - 095 failed/...
 - 096 todo
-- 097 
+- 097 ok/0 debug for 10 min
