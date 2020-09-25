@@ -106,4 +106,5 @@
 - 106 Todo build BST from in and postorder
 - 107 ok/0 no debug, st + q + seperator, ezzz
 - 108 ok/0 no debug
--
+- 109 ok/0 no debug
+- 
