@@ -4,8 +4,7 @@
 - 004 ok/0 O(m+n) no debug / just spend a bit time
 - 005 ok/1 O(n^2) debug for dp init problem, 30 sec
 - 006 ok/1 O(n) failed for first 10min, but sloved after lunch break.
-- 007 ok/0 O(n) no deubg.
-  there's always something distract you in modern society :), but after a short break I m back.
+- 007 ok/0 O(n) no deubg. there's always something distract you in modern society :), but after a short break I m back.
 - 008 Todo
 - 009 ok/0 O(n) debug for 30 sec, problem is using n\*10 replace pow(10, n)
 - 010 Todo its a hard dp RE match problem~
@@ -25,37 +24,52 @@
 - 024 ok/0 debug for 10s, problem is I forget a ptr = head to init a pointer
 - 025 failed/1 I can image how can I handle reverse a linked-list in O (1) space, just change the direction of the arrow, but the reality is I got confused in serverals minutes...
 - 026 ok/1 remove dulplicate partition.
+- 027 ok/0
+- 028 Todo strStr
 - 029 ok/0 debug for 10 sec, if x^y <0, x and y have different symbols
-
+- 030 Todo
+- 031 ok/0
 - 032 ok/0 hiahiahia, I can use st, MAKE IT SO EASY~ no debug, O(n) CT~
+- 033 ok/0
+- 034 ok/0
 - 035 ok/0 debug for 10 sec, ignore border case
+- 036 Todo Soduku
+- 037 Todo Soduku2
 - 038 no/ignored ignored because it\'s a stupid comprehesive problem
 - 039 ok/0 debug for 30 sec, manually write a dfs without struct for the first time...
 - 040 ok/0 debug for 2 hours... problem is slice shallow copy...
 - 041 ok/0 no debug
 - 042 todo
 - 043 no/ignored boring problem, why I need to impl a string product, do I need to build the computer from Iron and plastic? Everyone know we can use a*b in a program language. Now we have to realize a stupid one.
+- 044 Todo
 - 045 debug for 30 sec, nums => dp....
+- 046 ok/0
+- 047 ok/0
 - 048 ok/0 debug for a bit time, confused in index, experience is using a arrow, and draw it down in the paper will be better.
 - 049 ok/0 no debug.
 - 050 no/ignored now. realize a pow...
-- 051
+- 051 Todo N-Queens
+- 052 Todo N-Queens2
+- 053 ok/0
 - 054 no/2 spiral-order print matrix ...  in a mess when cantrol the index, it could be a rectangle. WTF :(, handle after 2 days for another try... ok/2.
 - 055 ok/0 super easy, no debug
 - 056 ok/0 no debug
 - 057 ok/3 spend so much time debug and finish, and I haven\'t realize my binary search logn algorithm. now CT is O(logn+k)... A super difficult problem for my first and second try.
+- 058 ok/0 no debug
+- 059 Todo spiral Matrix2
 - 060 ok/1 care about details...
 - 061 ok/0  rember that golang is value deliver, it means you cant modify a input *ListNode address, of course yuo can modify the content of the node...
-- 058 ok/0 no debug
 - 062 ok/0 no debug
 - 063 ok/0 no debug
 - 064 ok/0 no debug
 - 065 no/ignored parse a number according to rules
 - 066 ok/0 no debug
 - 067 ok/0 debug for 10 sec
+- 068 Todo
 - 069 ok/0 debug for 30 sec, deserve redo.
 - 070 ok/0 no debug. dont do it again, waste time, sososososossoso easy...
 - 071 ok/0 debug for 10 sec
+- 072 Todo Edit Distance!
 - 073 ok/1 no debug, But i dont catch up the idea to handle in 10 min.
 - 074 ok/0 without any obstacles...
 - 075 ok/0 no debug, blooooody easy
@@ -70,10 +84,10 @@
 - 084 ok/1 debug for 5 min
 - 085 ok/1 debug for 30 min, main in ignore the border case height[i] == height[i-1]
 - 086 ok/0 no debug, but I can do it again, really easy but interesting problem if you haven\'t try linked list problem for a bit time
+- 087 Todo
 - 088 ok/0 debug for 30 sec. no finish job before
 - 089 ok/ignored gray code is a concept problem, not about algorithm, just relative to understand of a new concept...
 - 090 ok/0 hia hia hia, waste time but really happy, just feels like chased by killer in DBD :))), I\'m an insane input machine.
-- 090 ok/0 no debug
 - 091 ok/0 no debug, simple dp
 - 092 ok/0 debug for 10 sec, wrong test
 - 093 no/failed failed to handle for the first time
@@ -88,6 +102,8 @@
 - 102 ok/0 debug for 3sec
 - 103 ok/0 debug for 30 sec, bug is lost a counter++
 - 104 ok/0 no debug, sososososossoso ez
+- 105 Todo build BST from pre and inorder
+- 106 Todo build BST from in and postorder
 - 107 ok/0 no debug, st + q + seperator, ezzz
 - 108 ok/0 no debug
 -
