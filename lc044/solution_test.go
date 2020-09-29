@@ -13,7 +13,7 @@ func TestX(t *testing.T) {
 	p2 := "*"
 	r2 := true
 	s3 := "cb"
-	p3 := "*a*b"
+	p3 := "**b"
 	r3 := true
 	s4 := "acdcb"
 	p4 := "a*c?b"
