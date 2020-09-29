@@ -123,4 +123,5 @@
 - 123 failed/2 dp, I know, I just dont know how to control the condition, finish the solution according to solution from someone else.... need more practice. cares about initial state, state transfer equation, and figure out the whole problem
 - 124 ok/2 no debug, recommend practice more, Really interesting problem.
 - 125 ok/0 debug for 30 sec, deserve another try!
+- 129 ok/0 no debug
 - 135 ok/0 no debug
