@@ -7,7 +7,7 @@
 - 007 ok/0 O(n) no deubg. there's always something distract you in modern society :), but after a short break I m back.
 - 008 Todo
 - 009 ok/0 O(n) debug for 30 sec, problem is using n\*10 replace pow(10, n)
-- 010 Todo its a hard dp RE match problem~
+- 010 ok/2 its a hard dp RE match problem~ 9.29.2020 debug for 2min for not considering a*b match "b", strongly recommend practice more, really interesting.
 - 011 Failed, I spend 2 hours in a mono stack solution,   ok/1 (when just use a general two pointers method), What I want to say is mono stack just not suitable for this problem... ps: no debug
 - 012 Todo-delay boring int and roman translate...
 - 013 Todo-delay boring
