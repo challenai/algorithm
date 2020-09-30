@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func Test(t *testing.T) {
+func TestGenerateTrees(t *testing.T) {
 	n := 3
 	r := 5
 
