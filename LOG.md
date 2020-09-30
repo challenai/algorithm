@@ -93,7 +93,7 @@
 - 093 no/failed failed to handle for the first time
 - 094 ok/0 ez, without any doubt I fucked it up.
 - 095 failed/...
-- 096 todo
+- 096 ok/0 no debug
 - 097 ok/0 debug for 10 min
 - 098 ok/0 ez
 - 099 failed ...
