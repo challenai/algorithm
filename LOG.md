@@ -124,5 +124,6 @@
 - 124 ok/2 no debug, recommend practice more, Really interesting problem.
 - 125 ok/0 debug for 30 sec, deserve another try!
 - 126 ok/0 really great problem, deserve your enjoy the solving progress
+- 127 ok/0 no debug
 - 129 ok/0 no debug
 - 135 ok/0 no debug
