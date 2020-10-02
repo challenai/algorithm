@@ -69,7 +69,7 @@
 - 069 ok/0 debug for 30 sec, deserve redo.
 - 070 ok/0 no debug. dont do it again, waste time, sososososossoso easy...
 - 071 ok/0 debug for 10 sec
-- 072 Todo Edit Distance!
+- 072 ok/0 Distance! hia hia hia, complete it without debugging, yoshi! pretty good job so far. but really deserve practice more.
 - 073 ok/1 no debug, But i dont catch up the idea to handle in 10 min.
 - 074 ok/0 without any obstacles...
 - 075 ok/0 no debug, blooooody easy
@@ -128,3 +128,4 @@
 - 129 ok/0 no debug
 - 135 ok/0 no debug
 - 136 ok/0 no debug
+- 137 Todo
