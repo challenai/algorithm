@@ -134,7 +134,15 @@
 - 153 ok/0 I can manage it in my dream maybe...
 - 154 ok/0 ...
 - 155 ok/0 no debug dont do again
--
+- 156 locked
+- 157 locked
+- 158 locked
+- 159 locked
+- 160 ok/0 no debug, ring in the linked list is really special, use fast and slow pointer and reseek to heag to find the entrance of ring
+- 161 locked
+- 162
+- 163 locked
+- 164
 -
 -
 -
