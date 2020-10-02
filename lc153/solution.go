@@ -1,6 +1,12 @@
 package solution
 
 func findMin(nums []int) int {
+	if len(nums) == 0 {
+		return 0
+	}
+	if nums[0] <= nums[len(nums)-1] {
+		return nums[0]
+	}
 	var low, high, mid int
 	low = 0
 	high = len(nums) - 1
