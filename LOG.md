@@ -144,8 +144,8 @@
 - 163 locked
 - 164
 - 165 ok/1 debug for 20min, too many details...
--
--
+- 166 delay not a good question
+- 167 no debug dont do it again.
 -
 -
 -
