@@ -147,7 +147,7 @@
 - 166 delay not a good question
 - 167 ok/0 no debug dont do it again.
 - 168 ok/0 ... debug for a bit time , suggest do it again
--
+- 169 ok/0 no debug, derserve another try without using hash
 -
 -
 -
