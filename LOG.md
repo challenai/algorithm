@@ -145,8 +145,8 @@
 - 164
 - 165 ok/1 debug for 20min, too many details...
 - 166 delay not a good question
-- 167 no debug dont do it again.
--
+- 167 ok/0 no debug dont do it again.
+- 168 ok/0 ... debug for a bit time , suggest do it again
 -
 -
 -
