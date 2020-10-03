@@ -140,7 +140,7 @@
 - 159 locked
 - 160 ok/0 no debug, ring in the linked list is really special, use fast and slow pointer and reseek to heag to find the entrance of ring
 - 161 locked
-- 162
+- 162 ok/1 no debug, but I referred to the solution...
 - 163 locked
 - 164
 -
