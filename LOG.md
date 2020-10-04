@@ -158,7 +158,7 @@
 - 191 ok/0 no debug
 - 198 ok/0 no debug solved in 2min
 - 199 ok/0 no debug
--
+- 200 ok/1 debug for a bit time , lost a i-1, suggest to practice more, just a long dsu algorithm, but not difficult
 -
 -
 -
