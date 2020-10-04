@@ -151,7 +151,7 @@
 - 172 ok/0 dont do it again
 - 173 ok/0 interesting
 - 174 ok/0 wow, need dp memorize solution, I use simple native dfs solution
--
+- 179 failed/1 I have the whole idea, but I can make the specific rule to sort the strings in nums
 -
 -
 -
