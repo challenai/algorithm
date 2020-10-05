@@ -159,6 +159,7 @@
 - 198 ok/0 no debug solved in 2min
 - 199 ok/0 no debug
 - 200 ok/1 debug for a bit time , lost a i-1, suggest to practice more, just a long dsu algorithm, but not difficult
+- 205 ok/0 no debug
 - 207 ok/1 totally similar to 210, toposort
 - 208 ok/0 debug for 2 min
 - 210 failed/ok/1 toposort template problem, but I forget how to solve...
