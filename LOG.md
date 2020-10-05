@@ -159,6 +159,7 @@
 - 198 ok/0 no debug solved in 2min
 - 199 ok/0 no debug
 - 200 ok/1 debug for a bit time , lost a i-1, suggest to practice more, just a long dsu algorithm, but not difficult
+- 201 ok/0 no debug, I know there may be some shortcuts to caculate the contigious number &. but I dont care much about it.
 - 202 ok/0 no debug
 - 205 ok/0 no debug
 - 206 ok/0 no debug
