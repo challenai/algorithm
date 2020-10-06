@@ -15,7 +15,7 @@ func findWords(board [][]byte, words []string) []string {
 	resu = []string{}
 	for i := 0; i < len(words); i++ {
 		currentWord = words[i]
-		existWord()
+		checkExist()
 	}
 
 	return resu
@@ -52,7 +52,7 @@ func dfs(i, j int) {
 	}
 }
 
-func existWord() bool {
+func checkExist() bool {
 	for i := 0; i < len(board_); i++ {
 		for j := 0; j < len(board_[i]); j++ {
 			currentIdx = 0
