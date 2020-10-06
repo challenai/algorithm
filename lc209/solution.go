@@ -8,10 +8,18 @@ func minSubArrayLen(s int, nums []int) int {
 	if nums[0] >= s {
 		return 1
 	}
-	var left, right, sum int
-	sum = nums[1]
-	left = 0
+	resu := 0
+	sum := nums[1]
+	left := 0
 	for i := 1; i < len(nums); i++ {
-		if 
+		sum += nums[i]
+		for sum >= s {
+			if resu == 0 || resu > (i-left+1) {
+				resu = i - left + 1
+			}
+			sum -= nums[left]
+			left++
+		}
 	}
+	return resu
 }
