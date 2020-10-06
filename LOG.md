@@ -27,7 +27,7 @@
 - 027 ok/0
 - 028 Todo strStr
 - 029 ok/0 debug for 10 sec, if x^y <0, x and y have different symbols
-- 030 Todo
+- 030 specail/0 pass test, but has some special border case, but I dont want to solve, This is not a good problem
 - 031 ok/0
 - 032 ok/0 hiahiahia, I can use st, MAKE IT SO EASY~ no debug, O(n) CT~
 - 033 ok/0
@@ -84,7 +84,7 @@
 - 084 ok/1 debug for 5 min
 - 085 ok/1 debug for 30 min, main in ignore the border case height[i] == height[i-1]
 - 086 ok/0 no debug, but I can do it again, really easy but interesting problem if you haven\'t try linked list problem for a bit time
-- 087 Todo
+- 087 failed/3 ...
 - 088 ok/0 debug for 30 sec. no finish job before
 - 089 ok/ignored gray code is a concept problem, not about algorithm, just relative to understand of a new concept...
 - 090 ok/0 hia hia hia, waste time but really happy, just feels like chased by killer in DBD :))), I\'m an insane input machine.
@@ -142,7 +142,7 @@
 - 161 locked
 - 162 ok/1 no debug, but I referred to the solution...
 - 163 locked
-- 164
+- 164 no idea/3 use sort we can get a O(nlogn) algorithm, Its really easy, but how about O(n) solution? feel like use bucket, but cant figure out
 - 165 ok/1 debug for 20min, too many details...
 - 166 delay not a good question
 - 167 ok/0 no debug dont do it again.
