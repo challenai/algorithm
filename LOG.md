@@ -167,5 +167,5 @@
 - 207 ok/1 totally similar to 210, toposort
 - 208 ok/0 debug for 2 min
 - 210 failed/ok/1 toposort template problem, but I forget how to solve...
--
+- 212 ok/0 no debug, almost :)
 -
