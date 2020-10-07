@@ -65,7 +65,7 @@
 - 065 no/ignored parse a number according to rules
 - 066 ok/0 no debug
 - 067 ok/0 debug for 10 sec
-- 068 failed...
+- 068 failed... ok/1.5 debug for 10min hiahia
 - 069 ok/0 debug for 30 sec, deserve redo.
 - 070 ok/0 no debug. dont do it again, waste time, sososososossoso easy...
 - 071 ok/0 debug for 10 sec
