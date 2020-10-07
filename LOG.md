@@ -129,6 +129,7 @@
 - 135 ok/0 no debug
 - 136 ok/0 no debug
 - 137 Todo
+- 140 ok/1 debug for 10min , really interesting problem, use trie to dfs the potiential words.
 - 151 ok/0 no debug
 - 152 ok/1 deserve another try. no debug
 - 153 ok/0 I can manage it in my dream maybe...
