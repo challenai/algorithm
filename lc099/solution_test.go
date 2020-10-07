@@ -35,7 +35,17 @@ func TestRecoverTree(t *testing.T) {
 
 	resu := recoverTree(root)
 
+	// inorder(resu)
 	if resu.Left.Right.Val != 3 && resu.Right.Left.Val != 6 {
 		t.Fail()
 	}
+}
+
+func inorder(root *TreeNode) {
+	if root == nil {
+		return
+	}
+	inorder(root.Left)
+	println(root.Val)
+	inorder(root.Right)
 }

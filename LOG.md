@@ -96,7 +96,7 @@
 - 096 ok/0 no debug
 - 097 ok/0 debug for 10 min
 - 098 ok/0 ez
-- 099 failed ...
+- 099 failed/ok/2 debug for 5min for the 2nd try
 - 100 ok/0 ez
 - 101 ok/0 ez
 - 102 ok/0 debug for 3sec
