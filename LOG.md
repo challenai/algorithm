@@ -169,6 +169,7 @@
 - 208 ok/0 debug for 2 min
 - 209 ok/0 no debug
 - 210 failed/ok/1 toposort template problem, but I forget how to solve...
+- 211 failed/1.5   design trie tree which can search '.' character
 - 212 ok/0 no debug, almost :)
 - 213 ok/0 no debug
 - 215 ok/0 no debug, dont do it again
@@ -181,4 +182,8 @@
 - 223 ok/0 deserve another try
 - 226 ok/0 no debug
 - 228 ok/0 no debug
+- 230 ok/0 no debug
+-
+-
+-
 -
