@@ -19,18 +19,23 @@ func largestNumber(nums []int) string {
 				return true
 			}
 		}
+		// lol , no rule ~~
+		str1 := numsStr[i] + numsStr[j]
+		str2 := numsStr[j] + numsStr[i]
+		if str1 > str2 {
+			return true
+		}
 		// consider 9537 vs 953 and 5537 vs 553,,,
 		// if len(numsStr[i]) > len(numsStr[j]) {
 		// 	if numsStr[i][len(numsStr[j])] < numsStr[i][0] {
 		// 		return false
 		// 	} else
 		// }
-		return true
+		return false
 	})
 	for i := 0; i < len(numsStr); i++ {
 		resu += numsStr[i]
 	}
-	println(resu)
 	return resu
 }
 
