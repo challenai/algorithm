@@ -125,6 +125,7 @@
 - 125 ok/0 debug for 30 sec, deserve another try!
 - 126 ok/0 really great problem, deserve your enjoy the solving progress
 - 127 ok/0 no debug
+- 128 ok/1.5 no debug, deserve another try
 - 129 ok/0 no debug
 - 135 ok/0 no debug
 - 136 ok/0 no debug
@@ -152,7 +153,7 @@
 - 172 ok/0 dont do it again
 - 173 ok/0 interesting
 - 174 ok/0 wow, need dp memorize solution, I use simple native dfs solution
-- 179 failed/1 I have the whole idea, but I can make the specific rule to sort the strings in nums
+- 179 failed/ok/1 I have the whole idea, but I can make the specific rule to sort the strings in nums,  finally I used a direct comparision...
 - 187 ok/0 dont do it again
 - 188 ok/0 no debug lol
 - 189 ok/0 no debug
