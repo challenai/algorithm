@@ -127,6 +127,7 @@
 - 127 ok/0 no debug
 - 128 ok/1.5 no debug, deserve another try
 - 129 ok/0 no debug
+- 133 Todo difficult to write test case
 - 135 ok/0 no debug
 - 136 ok/0 no debug
 - 137 Todo
@@ -188,6 +189,6 @@
 - 230 ok/0 no debug
 - 231 ok/0 no debug
 - 232 ok/0 no debug, rember that stack can reverse...
--
--
+- 234 ok/0 no debug
+- 235 ok/0 no deubg
 -
