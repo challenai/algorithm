@@ -6,9 +6,9 @@ import (
 
 func TestFindDuplicate(t *testing.T) {
 	nums1 := []int{1, 3, 4, 2, 2}
-	r1 := 3
+	r1 := 2
 	nums2 := []int{3, 1, 3, 4, 2}
-	r2 := 1
+	r2 := 3
 	nums3 := []int{1, 1, 2}
 	r3 := 1
 
