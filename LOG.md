@@ -200,7 +200,7 @@
 - 260 ok/0 no debug
 - 263 ok/0 no debug
 - 268 ok/0 no debug
--
+- 273 ignore/non translate number to english...
 -
 -
 -
