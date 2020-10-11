@@ -203,6 +203,8 @@
 - 273 ignore/non translate number to english...
 - 274 ok/0 no debug
 - 275 ok/0 no debug
+- 279 ok/0 no debug package problem
+- 284 ok/0 no debug
 - 287 todo/bitwise...
 -
 -
