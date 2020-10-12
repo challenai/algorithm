@@ -239,42 +239,42 @@
 - 240
 - 241
 - 242 ok/0 no debug
-- 243
-- 244
-- 245
-- 246
-- 247
-- 248
-- 249
-- 250
-- 251
-- 252
-- 253
-- 254
-- 255
-- 256
+- 243 locked
+- 244 locked
+- 245 locked
+- 246 locked
+- 247 locked
+- 248 locked
+- 249 locked
+- 250 locked
+- 251 locked
+- 252 locked
+- 253 locked
+- 254 locked
+- 255 locked
+- 256 locked
 - 257
 - 258
-- 259
+- 259 locked
 - 260 ok/0 no debug
-- 261
+- 261 locked
 - 262
 - 263 ok/0 no debug
 - 264
-- 265
-- 266
-- 267
+- 265 locked
+- 266 locked
+- 267 locked
 - 268 ok/0 no debug
-- 269
-- 270
-- 271
-- 272
+- 269 locked
+- 270 locked
+- 271 locked
+- 272 locked
 - 273 ignore/non translate number to english...
 - 274 ok/0 no debug
 - 275 ok/0 no debug
-- 276
-- 277
-- 278
+- 276 locked
+- 277 locked
+- 278 locked
 - 279 ok/0 no debug package problem
 - 280
 - 281
@@ -287,37 +287,49 @@
 - 288
 - 289
 - 290
-- 291
+- 291 locked
 - 292
-- 293
-- 294
+- 293 locked
+- 294 locked
 - 295
-- 296
+- 296 locked
 - 297
-- 298
+- 298 locked
 - 299
 - 300
 - 301
-- 302
+- 302 locked
 - 303
 - 304
-- 305
+- 305 locked
 - 306
 - 307
-- 308
+- 308 locked
 - 309
 - 310
-- 311
+- 311 locked
 - 312
 - 313
-- 314
+- 314 locked
 - 315
 - 316
-- 317
+- 317 locked
 - 318
 - 319
-- 320
+- 320 locked
 - 321
+- 322
+- 323 locked
+- 324
+- 325 locked
+- 326
+- 327
+- 328
+- 329
+- 330
+- 331
+- 332
+- 333 locked
 - 
 -
 -
