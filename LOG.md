@@ -142,9 +142,9 @@
 - 142 ok/0 no debug
 - 143 ok/0 no debug
 - 144
-- 145
+- 145 ok/0 no debug
 - 146
-- 147
+- 147 failed/...  I' m not there when I'm solving the problem
 - 148
 - 149
 - 150

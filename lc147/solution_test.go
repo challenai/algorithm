@@ -4,33 +4,34 @@ import (
 	"testing"
 )
 
-func TestReorderList(t *testing.T) {
+func TestInsertionSortList(t *testing.T) {
 	list := &ListNode{
-		Val: 1,
-	}
-	list.Next = &ListNode{
-		Val: 2,
-	}
-	list.Next.Next = &ListNode{
 		Val: 3,
 	}
-	list.Next.Next.Next = &ListNode{
-		Val: 4,
+	list.Next = &ListNode{
+		Val: 1,
 	}
-	list.Next.Next.Next.Next = &ListNode{
-		Val: 5,
-	}
-	list.Next.Next.Next.Next.Next = &ListNode{
+	list.Next.Next = &ListNode{
 		Val: 6,
 	}
-	r := []int{1, 6, 2, 5, 3, 4}
+	list.Next.Next.Next = &ListNode{
+		Val: 5,
+	}
+	list.Next.Next.Next.Next = &ListNode{
+		Val: 2,
+	}
+	list.Next.Next.Next.Next.Next = &ListNode{
+		Val: 4,
+	}
 
-	reorderList(list)
-	ptr := list
-	for i := 0; i < len(r); i++ {
-		if r[i] != ptr.Val {
+	resu := insertionSortList(list)
+	par := resu
+	ptr := resu.Next
+	for ptr != nil {
+		if par.Val > ptr.Val {
 			t.Fail()
 		}
+		par = ptr
 		ptr = ptr.Next
 	}
 }

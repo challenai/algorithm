@@ -18,10 +18,10 @@ func ll() {
 	list.Next.Next.Next = &ListNode{
 		Val: 4,
 	}
-	list.Next.Next.Next = &ListNode{
+	list.Next.Next.Next.Next = &ListNode{
 		Val: 5,
 	}
-	list.Next.Next.Next.Next = &ListNode{
+	list.Next.Next.Next.Next.Next = &ListNode{
 		Val: 6,
 	}
 
