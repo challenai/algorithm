@@ -139,7 +139,7 @@
 - 139
 - 140 ok/1 debug for 10min , really interesting problem, use trie to dfs the potiential words.
 - 141 ok/0 no debug
-- 142
+- 142 ok/0 no debug
 - 143
 - 144
 - 145

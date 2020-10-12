@@ -5,19 +5,27 @@ type ListNode struct {
 	Next *ListNode
 }
 
-func hasCycle(head *ListNode) bool {
+func detectCycle(head *ListNode) *ListNode {
 	if head == nil {
-		return false
+		return nil
 	}
 	var fast, slow *ListNode
-	slow = head
 	fast = head
+	slow = head
 	for fast != nil && fast.Next != nil {
 		slow = slow.Next
 		fast = fast.Next.Next
 		if fast == slow {
-			return true
+			break
 		}
 	}
-	return false
+	if fast != slow {
+		return nil
+	}
+	fast = head
+	for fast != slow {
+		fast = fast.Next
+		slow = slow.Next
+	}
+	return fast
 }
