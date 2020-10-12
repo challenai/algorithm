@@ -127,12 +127,27 @@
 - 127 ok/0 no debug
 - 128 ok/1.5 no debug, deserve another try
 - 129 ok/0 no debug
+- 130
+- 131
+- 132
 - 133 Todo difficult to write test case
+- 134 ok/2.5 debug for quite a bit
 - 135 ok/0 no debug
 - 136 ok/0 no debug
 - 137 Todo
 - 138 ok/1 no debug
+- 139
 - 140 ok/1 debug for 10min , really interesting problem, use trie to dfs the potiential words.
+- 141
+- 142
+- 143
+- 144
+- 145
+- 146
+- 147
+- 148
+- 149
+- 150
 - 151 ok/0 no debug
 - 152 ok/1 deserve another try. no debug
 - 153 ok/0 I can manage it in my dream maybe...
@@ -152,15 +167,34 @@
 - 167 ok/0 no debug dont do it again.
 - 168 ok/0 ... debug for a bit time , suggest do it again
 - 169 ok/0 no debug, derserve another try without using hash
+- 170
+- 171
 - 172 ok/0 dont do it again
 - 173 ok/0 interesting
 - 174 ok/0 wow, need dp memorize solution, I use simple native dfs solution
+- 175
+- 176
+- 177
+- 178
 - 179 failed/ok/1 I have the whole idea, but I can make the specific rule to sort the strings in nums,  finally I used a direct comparision...
+- 180
+- 181
+- 182
+- 183
+- 184
+- 185
+- 186
 - 187 ok/0 dont do it again
 - 188 ok/0 no debug lol
 - 189 ok/0 no debug
 - 190 ok/0 no debug
 - 191 ok/0 no debug
+- 192
+- 193
+- 194
+- 195
+- 196
+- 197
 - 198 ok/0 no debug solved in 2min
 - 199 ok/0 no debug
 - 200 ok/1 debug for a bit time , lost a i-1, suggest to practice more, just a long dsu algorithm, but not difficult
@@ -176,9 +210,11 @@
 - 211 failed/1.5   design trie tree which can search '.' character
 - 212 ok/0 no debug, almost :)
 - 213 ok/0 no debug
+- 214
 - 215 ok/0 no debug, dont do it again
 - 216 ok/0 no debug
 - 217 ok/0 no debug, dont do it again
+- 218
 - 219 ok/0 no debug
 - 220 ok/0 no debug
 - 221 ok/0 no debug
@@ -187,7 +223,9 @@
 - 224 failed/1 no debug till now
 - 225 ok/0 no debug
 - 226 ok/0 no debug
+- 227
 - 228 ok/0 no debug
+- 229
 - 230 ok/0 no debug
 - 231 ok/0 no debug
 - 232 ok/0 no debug, rember that stack can reverse...
@@ -196,17 +234,90 @@
 - 235 ok/0 no deubg
 - 236 ok/0 no debug
 - 237 ok/0 no debug
+- 238
+- 239
+- 240
+- 241
 - 242 ok/0 no debug
+- 243
+- 244
+- 245
+- 246
+- 247
+- 248
+- 249
+- 250
+- 251
+- 252
+- 253
+- 254
+- 255
+- 256
+- 257
+- 258
+- 259
 - 260 ok/0 no debug
+- 261
+- 262
 - 263 ok/0 no debug
+- 264
+- 265
+- 266
+- 267
 - 268 ok/0 no debug
+- 269
+- 270
+- 271
+- 272
 - 273 ignore/non translate number to english...
 - 274 ok/0 no debug
 - 275 ok/0 no debug
+- 276
+- 277
+- 278
 - 279 ok/0 no debug package problem
+- 280
+- 281
+- 282
 - 283 ok/0 no debug
 - 284 ok/0 no debug
+- 285
+- 286
 - 287 todo/bitwise...
+- 288
+- 289
+- 290
+- 291
+- 292
+- 293
+- 294
+- 295
+- 296
+- 297
+- 298
+- 299
+- 300
+- 301
+- 302
+- 303
+- 304
+- 305
+- 306
+- 307
+- 308
+- 309
+- 310
+- 311
+- 312
+- 313
+- 314
+- 315
+- 316
+- 317
+- 318
+- 319
+- 320
+- 321
 - 
 -
 -
