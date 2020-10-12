@@ -138,7 +138,7 @@
 - 138 ok/1 no debug
 - 139
 - 140 ok/1 debug for 10min , really interesting problem, use trie to dfs the potiential words.
-- 141
+- 141 ok/0 no debug
 - 142
 - 143
 - 144
