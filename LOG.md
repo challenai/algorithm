@@ -286,7 +286,7 @@
 - 287 todo/bitwise...
 - 288
 - 289
-- 290
+- 290 ok/0 no debug
 - 291 locked
 - 292
 - 293 locked
@@ -300,7 +300,7 @@
 - 301
 - 302 locked
 - 303
-- 304
+- 304 ok/0 debug for 2min
 - 305 locked
 - 306
 - 307
