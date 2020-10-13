@@ -131,7 +131,7 @@
 - 131
 - 132
 - 133 Todo difficult to write test case
-- 134 ok/2.5 debug for quite a bit
+- 134 failed/2.5
 - 135 ok/0 no debug
 - 136 ok/0 no debug
 - 137 Todo
@@ -223,13 +223,13 @@
 - 224 failed/1 no debug till now
 - 225 ok/0 no debug
 - 226 ok/0 no debug
-- 227
+- 227 ok/1.5 basic caculator
 - 228 ok/0 no debug
 - 229
 - 230 ok/0 no debug
 - 231 ok/0 no debug
 - 232 ok/0 no debug, rember that stack can reverse...
-- 233 Todo
+- 233 failed in 5 min, dont spend too many times to solve a specific question
 - 234 ok/0 no debug
 - 235 ok/0 no deubg
 - 236 ok/0 no debug
@@ -237,7 +237,7 @@
 - 238
 - 239
 - 240
-- 241
+- 241 ok/1.5 no debug
 - 242 ok/0 no debug
 - 243 locked
 - 244 locked
@@ -296,7 +296,7 @@
 - 297
 - 298 locked
 - 299
-- 300
+- 300 ok/0 no debug
 - 301
 - 302 locked
 - 303

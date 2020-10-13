@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestX(t *testing.T) {
+func TestHasCycle(t *testing.T) {
 	list := &ListNode{
 		Val: 1,
 	}
