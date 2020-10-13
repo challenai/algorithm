@@ -30,7 +30,7 @@ func diffWaysToCompute(s string) []int {
 	// for i := 0; i < len(resu); i++ {
 	// 	print(resu[i], " ")
 	// }
-	// println()
+	// ln()
 	return resu
 }
 
@@ -45,7 +45,6 @@ func dfs() {
 		formula[i-1] = getResult(formula[i-1], formula[i], formula[i+1])
 		copy(formula[i:], formula[i+2:])
 		formula = formula[:len(formula)-2]
-		// remove(formula, idx)
 		dfs()
 		formula = temp
 	}
