@@ -28,7 +28,6 @@ func wordPattern(pattern, s string) bool {
 			return false
 		}
 	}
-	println()
 
 	return true
 }
