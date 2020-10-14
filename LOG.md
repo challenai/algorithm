@@ -147,7 +147,7 @@
 - 147 failed/...  I' m not there when I'm solving the problem
 - 148
 - 149
-- 150
+- 150 ok/0 no debug
 - 151 ok/0 no debug
 - 152 ok/1 deserve another try. no debug
 - 153 ok/0 I can manage it in my dream maybe...
