@@ -306,7 +306,7 @@
 - 307
 - 308 locked
 - 309 ok/1 have another try
-- 310
+- 310 ok/0 no debug  another try
 - 311 locked
 - 312
 - 313
@@ -314,7 +314,7 @@
 - 315 ok/0 no debug, interesting ascent stack problem
 - 316
 - 317 locked
-- 318
+- 318 ok/0 no debug
 - 319
 - 320 locked
 - 321
