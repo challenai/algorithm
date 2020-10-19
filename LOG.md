@@ -322,8 +322,8 @@
 - 323 locked
 - 324
 - 325 locked
-- 326
-- 327
+- 326 ok/0 dont know what is the non-loop solution
+- 327 ok/0 dont know what is the best solution. just look at answer
 - 328
 - 329
 - 330
