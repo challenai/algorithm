@@ -351,7 +351,7 @@
 - 350 ok/0 no debug 
 - 
 -
--
+- 363 ok/1 no debug O(mn^2) solution...
 -
 -
 -
