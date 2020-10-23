@@ -353,8 +353,8 @@
 -
 - 363 ok/1 no debug O(mn^2) solution...
 - 365 failed/1 ...
--
--
+- 367 ok/0 no debug
+- 368 ok/0 no debug
 -
 -
 -
