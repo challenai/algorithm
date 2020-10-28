@@ -361,3 +361,4 @@
 -
 - 403 ok/0 no debug
 - 404 ok/0 no debug
+- 406 ok/0 no debug
