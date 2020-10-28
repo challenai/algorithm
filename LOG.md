@@ -360,3 +360,4 @@
 - 377 ok/0
 -
 - 403 ok/0 no debug
+- 404 ok/0 no debug
