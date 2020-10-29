@@ -358,7 +358,7 @@
 -
 - 376 failed/1 ...
 - 377 ok/0
--
+- 401 ok/0 no debug
 - 403 ok/0 no debug
 - 404 ok/0 no debug
 - 406 ok/0 no debug
