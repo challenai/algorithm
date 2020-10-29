@@ -358,7 +358,16 @@
 -
 - 376 failed/1 ...
 - 377 ok/0
-- 401 ok/0 no debug
+- 401 ok/0 no debug dfs
 - 403 ok/0 no debug
 - 404 ok/0 no debug
-- 406 ok/0 no debug
+- 406 ok/0 no debug pre-handle + bubble sort
+- 409 ok/0 no debug dont do it again
+-
+-
+-
+-
+-
+-
+-
+-
