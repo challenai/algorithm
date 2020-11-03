@@ -6,7 +6,7 @@ import (
 
 func TestPathSum(t *testing.T) {
 	root := &TreeNode{
-		Val: 10,
+		Val: 8,
 	}
 	root.Left = &TreeNode{
 		Val: 5,
@@ -23,8 +23,8 @@ func TestPathSum(t *testing.T) {
 	root.Left.Left.Right = &TreeNode{
 		Val: -2,
 	}
-	root.Right.Left.Right = &TreeNode{
-		Val: 7,
+	root.Left.Right.Right = &TreeNode{
+		Val: 1,
 	}
 	root.Right = &TreeNode{
 		Val: -3,
@@ -32,9 +32,10 @@ func TestPathSum(t *testing.T) {
 	root.Right.Right = &TreeNode{
 		Val: 11,
 	}
-	r := 3
+	sum := 8
+	r := 4
 
-	rsu := pathSum(root)
+	rsu := pathSum(root, sum)
 	if r != rsu {
 		t.Fail()
 	}
