@@ -379,7 +379,7 @@
 - 433 ok/0 no debug
 - 434 ok/0 no debug
 - 437 ok/1 no debug awesome question, have another try, really great, rember that we have only one path to travel from root to any node! But we got n^2^2^2 path when comes from bottom
--
+- 438 ok/0 no debug
 -
 -
 -
