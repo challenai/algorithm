@@ -14,6 +14,7 @@ func TestRemoveKdigits(t *testing.T) {
 	num3 := "10"
 	k3 := 2
 	r3 := "0"
+
 	rsu1 := removeKdigits(num1, k1)
 	rsu2 := removeKdigits(num2, k2)
 	rsu3 := removeKdigits(num3, k3)

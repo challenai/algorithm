@@ -359,6 +359,7 @@
 - 376 failed/1 ...
 - 377 ok/0
 - 401 ok/0 no debug dfs
+- 402 ok/1 really interesting, rember that dfs is really powerful, and dont do too much in every step
 - 403 ok/0 no debug
 - 404 ok/0 no debug
 - 406 ok/0 no debug pre-handle + bubble sort
