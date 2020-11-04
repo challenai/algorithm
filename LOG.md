@@ -380,6 +380,7 @@
 - 433 ok/0 no debug
 - 434 ok/0 no debug
 - 435 ok/0 no debug
+- 436 ok/0 no debug binary search, pre-sort, array index map
 - 437 ok/1 no debug awesome question, have another try, really great, rember that we have only one path to travel from root to any node! But we got n^2^2^2 path when comes from bottom
 - 437extra: 1. find the target PathSum in a DAG, 2. find the minimum sum that the path has aleast 3 nodes in Binary Tree
 - 438 ok/0 no debug
