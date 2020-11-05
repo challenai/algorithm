@@ -385,6 +385,7 @@
 - 437 ok/1 no debug awesome question, have another try, really great, rember that we have only one path to travel from root to any node! But we got n^2^2^2 path when comes from bottom
 - 437extra: 1. find the target PathSum in a DAG, 2. find the minimum sum that the path has aleast 3 nodes in Binary Tree
 - 438 ok/0 no debug
+- 440 ok/0 dict sort of numbers, find Kth number
 - 441 ok/0 great desert. God dont vote for Trump!!! or I will die, NO! He\'s an excellent politician insteaf of a great president...
 - 442 ok/0 a bitwise problem, just look at the answer directly, If you can, you dont need think, if you cant, dont waste time thinking
 - 443 ok/0 cares about byte operation, how to add and minus, use byte(''+123)
