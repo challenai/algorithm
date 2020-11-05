@@ -390,7 +390,8 @@
 - 443 ok/0 cares about byte operation, how to add and minus, use byte(''+123)
 - 445 ok/0 debug for a while, dont do it again
 - 447 ok/0 boring problem...
--
+- 448 ok/0 do it again!  mark element(as negative , as 0) is a common metheod to save memory. really inspiring
+- f
 -
 -
 
