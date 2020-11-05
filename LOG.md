@@ -386,7 +386,7 @@
 - 437extra: 1. find the target PathSum in a DAG, 2. find the minimum sum that the path has aleast 3 nodes in Binary Tree
 - 438 ok/0 no debug
 - 441 ok/0 great desert. God dont vote for Trump!!! or I will die, NO! He\'s an excellent politician insteaf of a great president...
--
+- 442 ok/0 a bitwise problem, just look at the answer directly, If you can, you dont need think, if you cant, dont waste time thinking
 -
 -
 -
