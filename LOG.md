@@ -392,7 +392,7 @@
 - 446 ok/0 dfs template problem
 - 447 ok/0 boring problem...
 - 448 ok/0 do it again!  mark element(as negative , as 0) is a common metheod to save memory. really inspiring
-- f
+- 449 ok/0 BFS in Binary Tree, use q, layer nil mark and array form of binary tree.
 -
 -
 
