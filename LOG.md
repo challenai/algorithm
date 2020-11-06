@@ -38,7 +38,7 @@
 - 038 no/ignored ignored because it\'s a stupid comprehesive problem
 - 039 ok/0 debug for 30 sec, manually write a dfs without struct for the first time...
 - 040 ok/0 debug for 2 hours... problem is slice shallow copy...
-- 041 ok/0 no debug
+- 041 ok/0 no debug, 2020.11.06 improve the solution with mark tech
 - 042 ok/0 debug for 30sec... two pointers , awesome question.
 - 043 no/ignored boring problem, why I need to impl a string product, do I need to build the computer from Iron and plastic? Everyone know we can use a*b in a program language. Now we have to realize a stupid one.
 - 044 ok/1 no debug, deserve practice more, really tapical dp string problem
