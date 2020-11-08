@@ -410,7 +410,7 @@
 - 464 ... 100 game 
 - 467 ok/0 derserve another try
 - 468 ok/0
--
+- 472 ok/0 no debug, have another try, an arrangment template problem
 -
 -
 -
