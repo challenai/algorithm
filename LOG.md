@@ -413,8 +413,8 @@
 - 472 ok/0 no debug, have another try, an arrangment template problem
 - 474 ok/0 boring
 - 475 ok/- no debug , new mark, fully no debug ,no consideration = -
--
--
+- 476 ok/-
+- 477 ok/-
 -
 -
 -
