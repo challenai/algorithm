@@ -472,7 +472,7 @@
 -
 -
 -
--
+- 1046 ok/- build heap, really interesting, inspire me we can use priority queue when we need to handle part of element in an array
 - 1051 ok/- sort
 - 1052 ok/- sliding windows
 
