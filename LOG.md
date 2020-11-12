@@ -473,6 +473,7 @@
 -
 -
 - 1046 ok/- build heap, really interesting, inspire me we can use priority queue when we need to handle part of element in an array
+- 1047 ok/- so easy dont repeat it again
 - 1048 ok/- dp interesting simple dp
 - 1049 ok/- 
 - 1051 ok/- sort
