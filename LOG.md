@@ -471,7 +471,7 @@
 -
 -
 -
--
+- 1044 ok/2 I cant figure out the best dp solution.
 - 1046 ok/- build heap, really interesting, inspire me we can use priority queue when we need to handle part of element in an array
 - 1047 ok/- so easy dont repeat it again
 - 1048 ok/- dp interesting simple dp
