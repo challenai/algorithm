@@ -4,7 +4,7 @@ var current0 []int
 var rsu0 [][]int
 var nums0_ []int
 
-func Combinate(nums []int) [][]int {
+func Combine(nums []int) [][]int {
 	nums0_ = nums
 	rsu0 = [][]int{}
 	current0 = []int{}

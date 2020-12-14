@@ -34,7 +34,7 @@ var nums4_ []int
 var resu4 [][]int
 var current4 []int
 
-func Combinate3(nums []int) [][]int {
+func Combine3(nums []int) [][]int {
 	resu4 = [][]int{}
 	nums4_ = nums
 	current4 = []int{}

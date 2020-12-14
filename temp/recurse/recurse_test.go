@@ -13,7 +13,7 @@ func TestArrage(t *testing.T) {
 		}
 		println()
 	}
-	comResu := Combinate3(nums)
+	comResu := Combine3(nums)
 	for i := 0; i < len(comResu); i++ {
 		for j := 0; j < len(comResu[i]); j++ {
 			print(comResu[i][j], " ")
