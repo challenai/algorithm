@@ -415,11 +415,11 @@
 - 475 ok/- no debug , new mark, fully no debug ,no consideration = -
 - 476 ok/-
 - 477 ok/-
-- 478 Todo random point in circle
+- 478 ok/0 random point in circle, deserve more practice about random number generation.
 - 479 Todo/lowquality
 - 480 Todo!/median in window
-- 481 Todo/ Magical string 1221121221...
-- 482 Todo!/~ simple string fromat
+- 481 Todo/lowquality Magical string 1221121221...
+- 482 ok/0 simple string fromat, strongly recommend to try again, deserve redo, take care of the details. use stack
 - 483 Todo/ math problem, smallest good base
 - 485 Todo!/~ longest consecutive 1s
 - 497 Todo random point in rectangles list
