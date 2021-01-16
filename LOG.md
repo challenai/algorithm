@@ -421,7 +421,7 @@
 - 481 Todo/lowquality Magical string 1221121221...
 - 482 ok/0 simple string fromat, strongly recommend to try again, deserve redo, take care of the details. use stack
 - 483 Todo/ math problem, smallest good base
-- 485 Todo!/~ longest consecutive 1s
+- 485 Todo/0 longest consecutive 1s, so easy...
 - 497 Todo random point in rectangles list
 - 
 -
