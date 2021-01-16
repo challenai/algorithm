@@ -415,9 +415,15 @@
 - 475 ok/- no debug , new mark, fully no debug ,no consideration = -
 - 476 ok/-
 - 477 ok/-
--
--
--
+- 478 Todo random point in circle
+- 479 Todo/lowquality
+- 480 Todo!/median in window
+- 481 Todo/ Magical string 1221121221...
+- 482 Todo!/~ simple string fromat
+- 483 Todo/ math problem, smallest good base
+- 485 Todo!/~ longest consecutive 1s
+- 497 Todo random point in rectangles list
+- 
 -
 -
 -
