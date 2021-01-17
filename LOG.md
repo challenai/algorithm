@@ -422,6 +422,7 @@
 - 482 ok/0 simple string fromat, strongly recommend to try again, deserve redo, take care of the details. use stack
 - 483 Todo/ math problem, smallest good base
 - 485 Todo/0 longest consecutive 1s, so easy...
+- 486 ok/2 game theory, player can get points from both sides of a line, predict winner, really interesting, strongly recommend. O(n^2). core idea: dp[i][j] represent most points from i to j, net point to ignore difference between two players...
 - 497 Todo random point in rectangles list
 - 
 -
