@@ -428,6 +428,7 @@
 - 492 ok/0 caculate sqrt(n), simple programming question
 - 493 Todo/3 find all reverse pairs in O(nlogn). use merge sort or segement tree to solve.
 - 494 ok/0 simple state enumerate dfs, O(2^n)
+- 495 ok/0 teemo attack, given a timeseries and duration return total posioned duration. simple array traversal, O(n)
 - 497 Todo random point in rectangles list
 - 
 -
