@@ -423,6 +423,11 @@
 - 483 Todo/ math problem, smallest good base
 - 485 Todo/0 longest consecutive 1s, so easy...
 - 486 ok/2 game theory, player can get points from both sides of a line, predict winner, really interesting, strongly recommend. O(n^2). core idea: dp[i][j] represent most points from i to j, net point to ignore difference between two players...
+- 488 Todo/4 most difficult one, consider a special case, "R(B)RWWRRBBRR" -> "R(B)RWW(W)RRBBRR" -> "", so cant use greed algo, and consicutive balls remove backtracing...
+- 491 ok/0 combination with dulplicate elements O(n!).
+- 492 ok/0 caculate sqrt(n), simple programming question
+- 493 Todo/3 find all reverse pairs in O(nlogn). use merge sort or segement tree to solve.
+- 494 ok/0 simple state enumerate dfs, O(2^n)
 - 497 Todo random point in rectangles list
 - 
 -
