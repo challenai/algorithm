@@ -431,7 +431,7 @@
 - 495 ok/0 teemo attack, given a timeseries and duration return total posioned duration. simple array traversal, O(n)
 - 496 ok/1 find next greater one, mono stack template question, strongly recommend. O(n)
 - 497 Todo random point in rectangles list
-- 
+- 501 ok/0 find most dulplicate element in BST. inorder traversal, O(n)
 -
 -
 -
