@@ -435,7 +435,7 @@
 - 502 ok/2 limit invest times (k) and initial capital (w), invest items. greed algorithm. O(kn). strongly recommend
 - 503 todo
 - 504 ok/0 translate number to base 7.
--
+- 506 ok/0 simple programming question. O(nlogn). sort
 -
 -
 - 
