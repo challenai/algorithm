@@ -432,8 +432,9 @@
 - 496 ok/1 find next greater one, mono stack template question, strongly recommend. O(n)
 - 497 Todo random point in rectangles list
 - 501 ok/0 find most dulplicate element in BST. inorder traversal, O(n)
--
--
+- 502 ok/2 limit invest times (k) and initial capital (w), invest items. greed algorithm. O(kn). strongly recommend
+- 503 todo
+- 504 ok/0 translate number to base 7.
 -
 -
 -
