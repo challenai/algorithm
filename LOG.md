@@ -433,7 +433,7 @@
 - 497 Todo random point in rectangles list
 - 501 ok/0 find most dulplicate element in BST. inorder traversal, O(n)
 - 502 ok/2 limit invest times (k) and initial capital (w), invest items. greed algorithm. O(kn). strongly recommend
-- 503 todo
+- 503 failed/2 find next greater one in a circle
 - 504 ok/0 translate number to base 7.
 - 506 ok/0 simple programming question. O(nlogn). sort
 -
