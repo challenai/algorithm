@@ -436,11 +436,13 @@
 - 503 failed/2 find next greater one in a circle
 - 504 ok/0 translate number to base 7.
 - 506 ok/0 simple programming question. O(nlogn). sort
--
--
-- 
--
--
+- 508 ok/1 derserve more practicing, not difficult, find most frequent subtree sum, O(n), take care of subtree definition, bt recursive traversal
+- 509 ok/0 fibonacci number. dont do it again.
+- 513 ok/1 find the most left node value of the last level of binary tree. level traversal. O(n), take care of border case of last level, queue
+- 514 no/3
+- 515 
+- 516
+- 517
 -
 -
 -
