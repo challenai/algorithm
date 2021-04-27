@@ -7,8 +7,8 @@
 - 007 ok/0 O(n) no deubg. there's always something distract you in modern society :), but after a short break I m back.
 - 008 Todo
 - 009 ok/0 O(n) debug for 30 sec, problem is using n\*10 replace pow(10, n)
-- 010 ok/2 its a hard dp RE match problem~ 9.29.2020 debug for 2min for not considering a*b match "b", strongly recommend practice more, really interesting.
-- 011 Failed, I spend 2 hours in a mono stack solution,   ok/1 (when just use a general two pointers method), What I want to say is mono stack just not suitable for this problem... ps: no debug
+- 010 ok/2 its a hard dp RE match problem~ 9.29.2020 debug for 2min for not considering a\*b match "b", strongly recommend practice more, really interesting.
+- 011 Failed, I spend 2 hours in a mono stack solution, ok/1 (when just use a general two pointers method), What I want to say is mono stack just not suitable for this problem... ps: no debug
 - 012 Todo-delay boring int and roman translate...
 - 013 Todo-delay boring
 - 014 ok/0 O(nk) no debug
@@ -40,7 +40,7 @@
 - 040 ok/0 debug for 2 hours... problem is slice shallow copy...
 - 041 ok/0 no debug, 2020.11.06 improve the solution with mark tech
 - 042 ok/0 debug for 30sec... two pointers , awesome question.
-- 043 no/ignored boring problem, why I need to impl a string product, do I need to build the computer from Iron and plastic? Everyone know we can use a*b in a program language. Now we have to realize a stupid one.
+- 043 no/ignored boring problem, why I need to impl a string product, do I need to build the computer from Iron and plastic? Everyone know we can use a\*b in a program language. Now we have to realize a stupid one.
 - 044 ok/1 no debug, deserve practice more, really tapical dp string problem
 - 045 debug for 30 sec, nums => dp....
 - 046 ok/0
@@ -51,14 +51,14 @@
 - 051 Todo N-Queens
 - 052 Todo N-Queens2
 - 053 ok/0
-- 054 no/2 spiral-order print matrix ...  in a mess when cantrol the index, it could be a rectangle. WTF :(, handle after 2 days for another try... ok/2.
+- 054 no/2 spiral-order print matrix ... in a mess when cantrol the index, it could be a rectangle. WTF :(, handle after 2 days for another try... ok/2.
 - 055 ok/0 super easy, no debug
 - 056 ok/0 no debug
 - 057 ok/3 spend so much time debug and finish, and I haven\'t realize my binary search logn algorithm. now CT is O(logn+k)... A super difficult problem for my first and second try.
 - 058 ok/0 no debug
 - 059 Todo spiral Matrix2
 - 060 ok/1 care about details...
-- 061 ok/0  rember that golang is value deliver, it means you cant modify a input *ListNode address, of course yuo can modify the content of the node...
+- 061 ok/0 rember that golang is value deliver, it means you cant modify a input \*ListNode address, of course yuo can modify the content of the node...
 - 062 ok/0 no debug
 - 063 ok/0 no debug
 - 064 ok/0 no debug
@@ -144,7 +144,7 @@
 - 144
 - 145 ok/0 no debug
 - 146
-- 147 failed/...  I' m not there when I'm solving the problem
+- 147 failed/... I' m not there when I'm solving the problem
 - 148 Todo failed
 - 149
 - 150 ok/0 no debug
@@ -176,7 +176,7 @@
 - 176
 - 177
 - 178
-- 179 failed/ok/1 I have the whole idea, but I can make the specific rule to sort the strings in nums,  finally I used a direct comparision...
+- 179 failed/ok/1 I have the whole idea, but I can make the specific rule to sort the strings in nums, finally I used a direct comparision...
 - 180
 - 181
 - 182
@@ -207,7 +207,7 @@
 - 208 ok/0 debug for 2 min
 - 209 ok/0 no debug
 - 210 failed/ok/1 toposort template problem, but I forget how to solve...
-- 211 failed/1.5   design trie tree which can search '.' character
+- 211 failed/1.5 design trie tree which can search '.' character
 - 212 ok/0 no debug, almost :)
 - 213 ok/0 no debug
 - 214
@@ -306,7 +306,7 @@
 - 307
 - 308 locked
 - 309 ok/1 have another try
-- 310 ok/0 no debug  another try
+- 310 ok/0 no debug another try
 - 311 locked
 - 312
 - 313
@@ -328,10 +328,10 @@
 - 329
 - 330
 - 331
-- 332 ok/0 debug for quit a bit time 
+- 332 ok/0 debug for quit a bit time
 - 333 locked
 - 334 ok/0 no debug
-- 335 ok/1 no debug  have another try, not interesting, but just try it
+- 335 ok/1 no debug have another try, not interesting, but just try it
 - 336 ok/0 no debug
 -
 -
@@ -348,8 +348,8 @@
 -
 -
 - 349 ok/0 dont do it again
-- 350 ok/0 no debug 
-- 
+- 350 ok/0 no debug
+-
 -
 - 363 ok/1 no debug O(mn^2) solution...
 - 365 failed/1 ...
@@ -377,7 +377,7 @@
 - 424 ok/0 debug for 5min
 - 428 ok/0 no debug
 - 430 ok/0 no debug
-- 421 ok/bitwiseO(n)solution need/1  Could you do this in O(n) runtime? no...
+- 421 ok/bitwiseO(n)solution need/1 Could you do this in O(n) runtime? no...
 - 432 ok/2 need a better solution
 - 433 ok/0 no debug
 - 434 ok/0 no debug
@@ -393,7 +393,7 @@
 - 445 ok/0 debug for a while, dont do it again
 - 446 ok/0 dfs template problem
 - 447 ok/0 boring problem...
-- 448 ok/0 do it again!  mark element(as negative , as 0) is a common metheod to save memory. really inspiring
+- 448 ok/0 do it again! mark element(as negative , as 0) is a common metheod to save memory. really inspiring
 - 449 ok/0 BFS in Binary Tree, use q, layer nil mark and array form of binary tree.
 - 450 ok/0 delete in bst
 - 451 ok/0 dont do it again
@@ -407,7 +407,7 @@
 - 461 ok/0 boring
 - 462 ok/1 really inspiring question, quick selection
 - 463 ok/0 no debug, dont do it again
-- 464 ... 100 game 
+- 464 ... 100 game
 - 467 ok/0 derserve another try
 - 468 ok/0
 - 472 ok/0 no debug, have another try, an arrangment template problem
@@ -440,7 +440,7 @@
 - 509 ok/0 fibonacci number. dont do it again.
 - 513 ok/1 find the most left node value of the last level of binary tree. level traversal. O(n), take care of border case of last level, queue
 - 514 no/3
-- 515 
+- 515 ok/1 find maximium of each level of binary tree. O(n)
 - 516
 - 517
 -
@@ -485,14 +485,13 @@
 -
 -
 -
-- 1037 ok/1 boring 
+- 1037 ok/1 boring
 -
 -
 - 1044 ok/2 I cant figure out the best dp solution.
 - 1046 ok/- build heap, really interesting, inspire me we can use priority queue when we need to handle part of element in an array
 - 1047 ok/- so easy dont repeat it again
 - 1048 ok/- dp interesting simple dp
-- 1049 ok/- 
+- 1049 ok/-
 - 1051 ok/- sort
 - 1052 ok/- sliding windows
-
