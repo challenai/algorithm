@@ -443,7 +443,9 @@
 - 515 ok/1 find maximium of each level of binary tree. O(n)
 - 516
 - 517
--
+- 518
+- 519
+- 520 ok/0 validate a capital word
 -
 -
 -
