@@ -449,7 +449,7 @@
 - 521 ok/0 dont do it again
 - 522 ok/0 longest uncommmon subsequence, hash, O(n)
 - 523 ok/0 find if exist a continuous subarray sum == given k, prefix sum, O(n^2)
--
+- 524 ok/0 longest subsequence word in word list. plain travel array. O(nk)
 -
 -
 -
