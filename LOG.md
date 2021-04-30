@@ -447,7 +447,7 @@
 - 519
 - 520 ok/0 validate a capital word
 - 521 ok/0 dont do it again
--
+- 522 ok/0 longest uncommmon subsequence, hash, O(n)
 -
 -
 -
