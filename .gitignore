@@ -1,6 +1,7 @@
 todo.md
 *.swp
-
+.DS_Store
+**/.DS_Store
 temp
 temp2
 temp3
