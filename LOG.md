@@ -446,7 +446,7 @@
 - 518
 - 519
 - 520 ok/0 validate a capital word
--
+- 521 ok/0 dont do it again
 -
 -
 -
