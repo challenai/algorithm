@@ -10,7 +10,7 @@ func threeSum(nums []int) [][]int {
 	// then use two pointer travel the array, find all the two number combination, and use 0 - sum[left, right]
 	// but this problem seems have dulplicate element
 
-	// anther idea: sort the array, then fix on element, at last search the pontienal combination of 3 elements
+	// anther idea: sort the array, then fix one element, at last search the pontienal combination of 3 elements
 	resu := [][]int{}
 	hash := map[string][]int{}
 	var left, right, sum int
