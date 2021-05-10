@@ -1,55 +1,36 @@
 package solution
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
+// haha only beats 41.85%~~~
 func mergeKLists(lists []*ListNode) *ListNode {
-	var ptr *ListNode
-	var currentIdx int
-	resu := &ListNode{}
-	ptr = resu
-
-	NotNilLeft := len(lists)
-
-	for NotNilLeft > 0 {
-		currentIdx = selectNextSmallest(lists)
-		// print(lists[currentIdx].Val, " ")
-		ptr.Next = lists[currentIdx]
-		ptr = ptr.Next
-		lists[currentIdx] = lists[currentIdx].Next
-		if lists[currentIdx] == nil {
-			NotNilLeft--
-		}
-	}
-
-	// ptr = resu.Next
-	// for ptr != nil {
-	// 	print(ptr.Val, " ")
-	// 	ptr = ptr.Next
-	// }
-	// println()
-
-	return resu.Next
-}
-
-func selectNextSmallest(lists []*ListNode) int {
-	var currentIdx int
-	var currentSmall int
-	currentIdx = -1
-	for i := 0; i < len(lists); i++ {
-		if lists[i] != nil {
-			currentIdx = i
-			currentSmall = lists[i].Val
-			break
-		}
-	}
-	for i := currentIdx + 1; i < len(lists); i++ {
-		if lists[i] != nil && lists[i].Val < currentSmall {
-			currentIdx = i
-			currentSmall = lists[i].Val
-		}
-	}
-	return currentIdx
+  rsu := &ListNode{
+    Next: nil,
+  }
+  ptr := rsu
+  var current *ListNode
+  var currentIdx int
+  for i := 0; i < len(lists); i++ {
+    for i < len(lists) && lists[i] == nil {
+      lists[i], lists[len(lists)-1] = lists[len(lists)-1], lists[i]
+      lists = lists[:len(lists)-1]
+    }
+  }
+  for len(lists) > 0 {
+    // select the smallest one
+    current = lists[0]
+    currentIdx = 0
+    for i := 1; i < len(lists); i++ {
+      if lists[i].Val < current.Val {
+        current = lists[i]
+        currentIdx = i
+      }
+    }
+    lists[currentIdx] = current.Next
+    ptr.Next = current
+    ptr = ptr.Next
+    if current.Next == nil {
+      lists[currentIdx], lists[len(lists)-1] = lists[len(lists)-1], lists[currentIdx]
+      lists = lists[:len(lists)-1]
+    }
+  }
+  return rsu.Next
 }
