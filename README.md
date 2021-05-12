@@ -1,3 +1,3 @@
 ## algorithm!
 
-enjoy pure coding life with Challen.
+enjoy pure coding time with Challen.
