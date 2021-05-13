@@ -1,37 +1,49 @@
 package solution
 
 func myAtoi(s string) int {
-	// idea: find first valid char, test if it is a - or +, or just a common number
-	// then just parse sequentially
-	var startPoint, resu, needMinusSymbol int
-	resu = 0
-	needMinusSymbol = false
-	for i := 0; i < len(s); i++ {
-		if s[i] == 45 || s[i] == 43 || (s[i] >= 48 && s[i] <= 57) {
-			startPoint = i
-			break
-		}
-	}
-	// 45 in byte represent '-'
-	if s[startPoint] == 45 {
-		needMinusSymbol = true
-	}
+  s = strings.Trim(s, " ")
+  if len(s) == 0 {
+    return 0
+  }
+  s_ := ""
+  var symbol byte
+  if s[0] == '-' || s[0] == '+' {
+    symbol = s[0]
+    s = s[1:]
+  }
+  for _, char := range s {
+    if char >= '0' && char <= '9' {
+      if char == '0' && s_ == "" {
+        continue
+      }
+      s_ += string(char)
+    } else {
+      break
+    }
+  }
+  if s_ == "" {
+    return 0
+  }
+  if symbol != '-' && isOverflow(s_, "2147483647") {
+    return 2147483647
+  }
+  if symbol == '-' && isOverflow(s_, "2147483648") {
+    return -2147483648
+  }
+  rsu, _ := strconv.Atoi(s_)
+  if symbol == '-' {
+    return -rsu
+  }
+  return rsu
+}
 
-	if s[startPoint] == 45 || s[startPoint] == 47 {
-		startPoint++
-	}
-	// jump to next number position, try to parse string like this: " - da#^*(jdas  31  " as -31, avoid useless chars
-	// deny this idea, because ths situation "  - e2e- 32 3" could appears, we just allow "  -23 3"
-	// for i := startPoint; i < len(s); i++ {
-	// 	if s[i] >= 48 && s[i] <= 57 {
-	// 		startPoint = i
-	// 		break
-	// 	}
-	// }
-
-	for i := startPoint; i < len(s); i++ {
-
-	}
-
-	return 0
+// validate overflow, if overflow, return false
+func isOverflow(s, border string) bool {
+  if len(s) > len(border) {
+    return true
+  }
+  if len(s) < len(border) {
+    return false
+  }
+  return s > border
 }
