@@ -8,6 +8,7 @@ func rob(root *TreeNode) int {
     return robSon(root, &l, &r)
 }
 
+// use a pointer to memorize result
 func robSon(root *TreeNode, l, r *int) int {
     if root == nil {
         return 0
